@@ -1,0 +1,25 @@
+{
+  "name": "fuckinghurray",
+  "version": "1.0.0",
+  "description": "a simple app to collect your fucking hurrays",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktb8n/FuckingHurray.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktb8n/FuckingHurray/issues"
+  },
+  "homepage": "https://github.com/ktb8n/FuckingHurray#readme",
+  "dependencies": {
+    "node": "^17.7.2",
+    "react": "^18.1.0"
+  },
+  "type": "module"
+}
